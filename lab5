@@ -1,0 +1,59 @@
+w raporcie trzeba zapisac h0 h1
+h0 waga owcow agrestu ma rozkl normalny
+h1 waga owocow agrestu nie ma rozkladu normalnego
+wykresy>wykresy w2> wykresy normalnosci>testshapiro wilka
+
+p=0,17>0,05 
+dla testu shapiro wilka poziom p>alfa zatem nie ma podstaw do odrzucenia hipotezy h0 o normalnosci rozkladu wagi owocow agrestu
+
+2)
+h0 sredni czas =4godz
+h1 sredni czas jest wiekszy niz 4godz
+
+trzeba wykonac test t-studenta dla poj proby, ale musimy zobaczyc czy rozklad jest normalny.
+ czyli ze p>alfa
+0,67>0,05
+czyli rozklad jest normalny
+h 0 czas zycia ma rozkl normalny
+h1 czas zycia nie ma rozkl normalnego
+czyli mozemt zastosowac test t-studenta
+Statyssyka> statystyki podstawowe i tabele>test t dla pojedynczej proby>testuj srednie wzgledem =4 i ta tabelka do raportu p=0,016 odrzucamy h0 na korzysc h1
+bo p=0,016<L
+i p/2<L           L=alfa
+kiedy wyniki sa na czerwono to odrzucamy h0 na korzysc h1
+chyba ze p/2<L
+3)
+h0 m1=m2
+h1 m=/m2
+wyliczam srednia ze statystki opisowej i dziewczyny spia wiecej
+
+test t dla dwoch prob niezaleznych
+h0 m1=m2
+h1 m1=/m2
+
+wiele wykresow na jednym rysunku w wykresie normalnosci
+rozklady sa normalne w obu grupach nie ma podstaw do odrzucenia hipotezy
+test t dla prob niezaleznych wzgl zmn test lavene i test browna
+
+
+dla testu browna p=0,47
+dla testu lavene p=0,44 dla testu F p=0.72
+we wszystikch testach p jest wieksze od alfa
+zatem nie ma podstaw do odrzucenia hipotezy o rownosci wariancji w obu grupach
+
+
+dla testu t studenta p=0,08814>0,05 nie ma podstaw do odrzucenia hipotezy h0 o jednakowym czasie snu w obu grupach
+
+p/2=0,044<0,05 odrzucamy h0 na korzysc h1
+
+
+
+
+
+
+
+
+
+
+
+
