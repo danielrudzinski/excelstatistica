@@ -1,59 +1,52 @@
-w raporcie trzeba zapisac h0 h1
-h0 waga owcow agrestu ma rozkl normalny
-h1 waga owocow agrestu nie ma rozkladu normalnego
-wykresy>wykresy w2> wykresy normalnosci>testshapiro wilka
-
-p=0,17>0,05 
-dla testu shapiro wilka poziom p>alfa zatem nie ma podstaw do odrzucenia hipotezy h0 o normalnosci rozkladu wagi owocow agrestu
-
-2)
-h0 sredni czas =4godz
-h1 sredni czas jest wiekszy niz 4godz
-
-trzeba wykonac test t-studenta dla poj proby, ale musimy zobaczyc czy rozklad jest normalny.
- czyli ze p>alfa
-0,67>0,05
-czyli rozklad jest normalny
-h 0 czas zycia ma rozkl normalny
-h1 czas zycia nie ma rozkl normalnego
-czyli mozemt zastosowac test t-studenta
-Statyssyka> statystyki podstawowe i tabele>test t dla pojedynczej proby>testuj srednie wzgledem =4 i ta tabelka do raportu p=0,016 odrzucamy h0 na korzysc h1
-bo p=0,016<L
-i p/2<L           L=alfa
-kiedy wyniki sa na czerwono to odrzucamy h0 na korzysc h1
-chyba ze p/2<L
-3)
-h0 m1=m2
-h1 m=/m2
-wyliczam srednia ze statystki opisowej i dziewczyny spia wiecej
-
-test t dla dwoch prob niezaleznych
-h0 m1=m2
-h1 m1=/m2
-
-wiele wykresow na jednym rysunku w wykresie normalnosci
-rozklady sa normalne w obu grupach nie ma podstaw do odrzucenia hipotezy
-test t dla prob niezaleznych wzgl zmn test lavene i test browna
+3. wykresy skategoryzowane > normalnosci> zmienne> >wiecej>test shakiro wilka >statystyka>stat podstawowe i tabele > test wzl grupy zmienne>test levena i browna forsytha
+jak nie ma rozkladu normalnego to jakies testy parametryczne
 
 
-dla testu browna p=0,47
-dla testu lavene p=0,44 dla testu F p=0.72
-we wszystikch testach p jest wieksze od alfa
-zatem nie ma podstaw do odrzucenia hipotezy o rownosci wariancji w obu grupach
+4.
 
+h0)m=4
+h1)m=/4
 
-dla testu t studenta p=0,08814>0,05 nie ma podstaw do odrzucenia hipotezy h0 o jednakowym czasie snu w obu grupach
+a jednostronna m<4
+statysyka>podstawowe>inne>srednia z pomiarow 1 a srednia z populacji 2> sr1 3,74/sr2 4/odc 1,4/n 60 p=1556
 
-p/2=0,044<0,05 odrzucamy h0 na korzysc h1
+o,15>L = nie ma podstaw do odrzucenia h0
+5.
+h0 m=31
+h1 m>31
+p=0.0000
+
+odrzucamy h0 na korzysc h1
+
+6. 
+sporzadz diagram korelacyjny
+h0=p0
+h1 p=/0
+stat podst>korelacja>dwie listy zmiennych>2w rozrzutu>opcje wyswietl dokladna tabele wynikow
+
+r=0,83 korelacja dodatnia
+y 0,62+1,62
+odrzucamy h0 na korzysc h1 wystepuje korelacja
+
+wspolczynnik determinacji wynosi 0.69 wyjasniona srednia ocen na 1 roku
 
 
 
 
+jakis blad estymacji
+
+statystka regresja i wieloraka zalezna na 4 roku niezalezna na 1 roku>podsumowanie regresji
+
+wspolczynnik korelacji jest istotnie rozny od zera
 
 
 
-
-
-
-
+1 zad z weryfikacji hipotez
+1 zad z zmiennych losowych
+zaleznosi od grupy jakies rozne zadania
+miary statystyczne i ich interpretacja
+przedzialy ufnosci
+korelacja
+czasami jakis wykresik tibijski
+generalnie wszystko ;---D
 
